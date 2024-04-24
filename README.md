@@ -26,7 +26,8 @@ Designed another macro to sort the entire spreadsheet in descending order based 
 Developed a basic dashboard using the account sales dataset:
 Implemented macros to aid in disaggregating data across multiple years.
 Employed pivot tables and charts to construct the dashboard, presenting visual insights into sales data and trends.
-![image](https://github.com/proadarsh/Adarsh-kumar_Jp-morgan-chase-virtual-internship/assets/159598388/90c1fbe3-2ec5-485b-8adb-4a18f1aa1cc1)
+![image](https://github.com/proadarsh/Adarsh-kumar_Jp-morgan-chase-virtual-internship/assets/159598388/bbbc865c-81cd-47dc-89c4-779850b90b71)
+
 
 # Task 5: Data driven storytelling
 Crafted a PowerPoint presentation to convey critical insights. The recommendations include:
