@@ -26,6 +26,7 @@ Designed another macro to sort the entire spreadsheet in descending order based 
 Developed a basic dashboard using the account sales dataset:
 Implemented macros to aid in disaggregating data across multiple years.
 Employed pivot tables and charts to construct the dashboard, presenting visual insights into sales data and trends.
+
 ![image](https://github.com/proadarsh/Adarsh-kumar_Jp-morgan-chase-virtual-internship/assets/159598388/bbbc865c-81cd-47dc-89c4-779850b90b71)
 
 
